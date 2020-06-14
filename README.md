@@ -1,8 +1,8 @@
 # AFL Action Recognition
 
-This project creates a model to identify specific actions during the gameplay of Australian rules football. For each frame from a video of gameplay the model predicts the action being completed during that frame.
+This project creates a model to identify specific actions during the gameplay of Australian rules football. The model predicts the action being completed during each frame from a video of gameplay such as the frames shown below.
 
-<img src="afl_frames.png" width="432" height="288" />
+<img src="afl_frames.png" width="800" height="350" />
 
 The model identifies the following actions:
 * mark
